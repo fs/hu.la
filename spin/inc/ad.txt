@@ -1,0 +1,11 @@
+<script type="text/javascript"><!--
+google_ad_client = "pub-2416043527953801";
+/* 468x60, created 5/24/10 */
+google_ad_slot = "8776307746";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>

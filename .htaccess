@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteRule ^/?$ http://spin.hu.la [L]
+RewriteRule ^(.*)$ http://bit.ly/$1 [R=301,NC]
